@@ -4,7 +4,7 @@ import Button from '@mui/material/Button';
 import CloudDownloadIcon from "@mui/icons-material/CloudDownload";
 import ReactCountryFlag from "react-country-flag";
 import { motion } from "framer-motion";
-import resume from '../../public/M Safiullah Khan.pdf'
+import resume from '../M Safiullah Khan.pdf'
 
 export default function Home() {
   return (
